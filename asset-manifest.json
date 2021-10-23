@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/EXAMEN/static/css/main.1000b43d.chunk.css",
+    "main.js": "/EXAMEN/static/js/main.e4fde242.chunk.js",
+    "main.js.map": "/EXAMEN/static/js/main.e4fde242.chunk.js.map",
+    "runtime-main.js": "/EXAMEN/static/js/runtime-main.d5bc995c.js",
+    "runtime-main.js.map": "/EXAMEN/static/js/runtime-main.d5bc995c.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/EXAMEN/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.0c18c1de.chunk.js": "/EXAMEN/static/js/2.0c18c1de.chunk.js",
+    "static/js/2.0c18c1de.chunk.js.map": "/EXAMEN/static/js/2.0c18c1de.chunk.js.map",
+    "static/js/3.af0a9dfe.chunk.js": "/EXAMEN/static/js/3.af0a9dfe.chunk.js",
+    "static/js/3.af0a9dfe.chunk.js.map": "/EXAMEN/static/js/3.af0a9dfe.chunk.js.map",
+    "index.html": "/EXAMEN/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/EXAMEN/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.1000b43d.chunk.css.map": "/EXAMEN/static/css/main.1000b43d.chunk.css.map",
+    "static/js/2.0c18c1de.chunk.js.LICENSE.txt": "/EXAMEN/static/js/2.0c18c1de.chunk.js.LICENSE.txt",
+    "static/media/cine.167e9971.jpg": "/EXAMEN/static/media/cine.167e9971.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5bc995c.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.0c18c1de.chunk.js",
+    "static/css/main.1000b43d.chunk.css",
+    "static/js/main.e4fde242.chunk.js"
+  ]
+}
